@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bca72b95-ecca-4e6f-8761-fbbe4fa8e231" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/offcn/po/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/offcn/po/TestGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/offcn/po/TestGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/offcn/po/TestGit.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599033192840</updated>
-      <workItem from="1599033195435" duration="24773000" />
+      <workItem from="1599033195435" duration="26482000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合github测试">
       <created>1599322846030</created>
@@ -145,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599323832339</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.将实体类进一步完善">
+      <created>1599324073670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599324073670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.导包">
+      <created>1599324205260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599324205260</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +167,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea整合github测试" />
     <MESSAGE value="1.修改了测试类&#10;2.增加了一个类" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.修改了测试类&#10;2.增加了一个类" />
+    <MESSAGE value="1.将实体类进一步完善" />
+    <MESSAGE value="1.导包" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.导包" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1599132794473">
@@ -173,10 +188,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1599033822018" />
-    <state x="179" y="0" key="CommitChangelistDialog2" timestamp="1599324071932">
+    <state x="179" y="0" key="CommitChangelistDialog2" timestamp="1599324203663">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="179" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599324071932" />
+    <state x="179" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599324203663" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1599323511092">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -225,10 +240,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599323218813" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1599324076068">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1599324207625">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1599324076068" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1599324207625" />
     <state x="468" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599324188909">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
